@@ -2,9 +2,9 @@
 namespace Jibix\AntiInternalKick\utils;
 use Jibix\AntiInternalKick\Main;
 use pocketmine\network\mcpe\protocol\BatchPacket;
-use pocketmine\network\mcpe\EncapsulatedPacket;
 use pocketmine\network\mcpe\RakLibInterface;
 use pocketmine\Player;
+use raklib\protocol\EncapsulatedPacket;
 
 
 /**
